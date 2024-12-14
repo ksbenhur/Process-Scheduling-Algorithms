@@ -1,0 +1,7 @@
+To run the code, navigate to the project directory in the terminal and use the following commands:
+
+gcc *.c -o main
+./main
+
+To save the output to a file, use:
+./main > output.txt
